@@ -143,7 +143,7 @@ namespace SM64SampleTuner
 
         private void ghRepoLink_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            ProcessStartInfo gitHubRepoLink = new ProcessStartInfo("https://github.com/PablosCorner/SM64SampleTuner");
+            ProcessStartInfo gitHubRepoLink = new ProcessStartInfo("https://github.com/PablosCorner/SM64-Sample-Tuner");
             Process.Start(gitHubRepoLink);
         }
     }
