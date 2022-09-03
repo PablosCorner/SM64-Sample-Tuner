@@ -7,6 +7,6 @@ Open the program .exe, type the bitrate and root key that your sample is using, 
 ## Building
 Open the .sln of the project in Visual Studio 2022 Community Edition, and build the program from there, should hopefully just work.
 ## Credits
-* PablosCorner - Original code from when it was a Java CLI program
-* ThisMight - Porting to C# and creating GUI base
+* PablosCorner - Programmed base/core code
+* ThisMight - Assisting with porting original Java CLI code to C# and working with a GUI
 * Trenavix - The formula for calculating the float key value for instrument tuning
